@@ -5,7 +5,8 @@ This project classify blood smear images into 4 classes - hematogones cells i.e.
 
 ## 📄 Research Paper:
 
-This work was published as an **IEEE conference paper** titled, _LeukoFind: A Deep Learning Approach for Predicting B-Cell Acute Lymphoblastic Leukemia from Blood Smear Images_ 
+This work was published as an **IEEE conference paper** titled, _LeukoFind: A Deep Learning Approach for Predicting B-Cell Acute Lymphoblastic Leukemia from Blood Smear Images_
+
 [DOI: https://doi.org/10.1109/ICISS67859.2026.11454059]
 
 **Team Members Who Worked on this project:**
