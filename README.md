@@ -44,4 +44,4 @@ The performance of the implemented models was evaluated using classification met
 
 The proposed system is implemented as a **Streamlit** web application, where users can upload blood smear images for B-ALL detection. The application displays the prediction result along with relevant suggestions to support clinical decision-making.
 
-<img width="1920" height="1920" alt="LeukoFind ss collage" src="https://github.com/user-attachments/assets/c0010592-85fd-4683-89d3-77770fe49f8c" />
+<img width="750" height="750" alt="LeukoFind ss collage" src="https://github.com/user-attachments/assets/c0010592-85fd-4683-89d3-77770fe49f8c" />
