@@ -3,6 +3,7 @@
 LeukoFind is a deep learning system for _B-ALL detection using blood smear images_ and _transfer learning models_.
 This project classify blood smear images into 4 classes - hematogones cells i.e., **Benign** and different forms of B-ALL cells, such as **Early Pre-B, Pre-B, and Pro-B.**
 
+---
 ## 📄 Research Paper:
 
 This work was published as an **IEEE conference paper** titled, _LeukoFind: A Deep Learning Approach for Predicting B-Cell Acute Lymphoblastic Leukemia from Blood Smear Images_
@@ -12,6 +13,8 @@ This work was published as an **IEEE conference paper** titled, _LeukoFind: A De
 **Team Members Who Worked on this project:**
 1. Gokila S - [@Gokila3075](https://github.com/Gokila3075)
 2. Kavinaya A - [@kavinaya005](https://github.com/kavinaya005)
+
+---
 
 ## 📂 Dataset
 
